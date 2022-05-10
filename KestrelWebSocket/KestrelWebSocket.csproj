@@ -11,7 +11,7 @@
 	<PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
 	<PackageReference Include="Microsoft.AspNetCore.WebSockets" Version="2.2.1" />
 	<PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="2.2.0" />
-	<!-- Uncomment next line !-->
+	<!-- Comment next line !-->
 	<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
 </ItemGroup>
 
